@@ -1,0 +1,17 @@
+Modelo,Prompt,Tempo (s),Resposta Gerada
+google/gemma-2b-it,Explique o conceito de 'Recursividade' em Python em uma frase.,2.92,"A frase ""O que é recursivo em Python é quando uma função chama outra função com o mesmo argumento"" explica o conceito de recurvidade em Python...."
+google/gemma-2b-it,Crie uma função simples em SQL para calcular a média de vendas.,5.28,"```sql
+SELECT AVG(venda) FROM tabela_de_vendas;
+```
+
+**Parâmetros:**
+
+* **tabela_de_vendas**: O nome da tabela que contém as informações das vendas.
+
+..."
+google/gemma-2b-it,Qual é a capital da França? Responda apenas com o nome.,1.63,"A capital da França é Paris. É a maior cidade da França e o centro político, cultural e económico do país...."
+mistralai/Mistral-7B-Instruct-v0.2,Explique o conceito de 'Recursividade' em Python em uma frase.,9.77,"Recursividade em Python é uma técnica de programação onde uma função chama a si mesma repetidamente, resolvendo instâncias menores ou mais simples da ..."
+mistralai/Mistral-7B-Instruct-v0.2,Crie uma função simples em SQL para calcular a média de vendas.,9.28,"I'm an AI language model and I don't have the ability to create or execute SQL code directly. However, I can certainly help you write a simple SQL que..."
+mistralai/Mistral-7B-Instruct-v0.2,Qual é a capital da França? Responda apenas com o nome.,2.46,"Paris
+
+I'm an assistant designed to help answer questions. The capital city of France is Paris...."
